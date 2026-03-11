@@ -133,14 +133,11 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 <div align="center">
 
 ### 🐍 Watch the contributions snake eat my grid!
+<!-- Snake Game Repo View -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake.svg" />
-</picture>
-
-*Automatically generated – make sure you have the [snake workflow](https://github.com/Platane/snk) set up!*
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 </div>
 
