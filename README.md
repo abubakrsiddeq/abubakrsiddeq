@@ -131,54 +131,6 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<!-- STREAK STATS – Blue themed -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=default&hide_border=false&ring=0077B6&fire=0077B6&currStreakLabel=023E8A&sideLabels=023E8A&currStreakNum=1E293B&sideNums=1E293B&dates=888888&background=FFFFFF&border=0077B6" alt="Streak Stats" />
-
-<br><br>
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=0077B6&border_color=0077B6&bg_color=FFFFFF&text_color=1E293B" alt="Top Languages" />
-
-<br><br>
-
-<!-- CONTRIBUTOR STATS -->
-<img src="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=default&combine_all_yearly_contributions=true&title_color=0077B6&bg_color=FFFFFF&border_color=0077B6" alt="Contributor Stats" />
-
-<br><br>
-
-<!-- DEV QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 Achievements
-
-<!-- TROPHIES – Blue tint -->
-<img src="https://github-profile-trophy.vercel.app/?username=abubakrsiddeq&theme=flat&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=0077B6" alt="Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ACTIVITY GRAPH – Blue gradient -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&bg_color=FFFFFF&color=0077B6&line=023E8A&point=00B4D8&area=true&area_color=E6F3FF&hide_border=false&border_color=0077B6&title_color=1E293B" alt="Activity Graph" />
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION – Contribution grid (requires GitHub Action) -->
-<div align="center">
 
 ### 🐍 Watch the contributions snake eat my grid!
 
@@ -204,14 +156,5 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <!-- FOOTER WAVE – Blue gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=140&section=footer&text=Let's+Build+Something+Great&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Footer" />
-
-<br>
-
-<!-- VISITOR COUNTER -->
-<img src="https://visitcount.itsvg.in/api?id=abubakrsiddeq&icon=6&color=9" alt="Profile Views" />
-
-<br>
-
-**⚡ Crafted with intent. Deployed with precision. ⚡**
 
 </div>
