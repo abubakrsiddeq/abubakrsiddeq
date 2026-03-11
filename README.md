@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- MODERN HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4158D0,30:C850C0,70:FFCC70,100:FAC05E&height=280&section=header&text=Abubakar%20Siddique&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Digital%20Craftsman&descAlignY=65&descSize=16&stroke=FFDAB9&strokeWidth=1.5" alt="Header" />
+<!-- MODERN HERO BANNER with updated gradient -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,40:3B82F6,80:8B5CF6,100:06B6D4&height=280&section=header&text=Abubakar%20Siddique&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Digital%20Craftsman&descAlignY=65&descSize=16&stroke=8B5CF6&strokeWidth=1.5" alt="Header" />
 
 <br>
 
@@ -150,7 +150,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <br><br>
 
-<!-- MODERN FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:4158D0,30:C850C0,70:FFCC70,100:FAC05E&height=160&section=footer&text=Let%E2%80%99s+Build+Something+Great+Together&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Open+to+collaborations+%E2%80%A2+Freelance+%E2%80%A2+Full-time+Opportunities&descSize=13&descAlignY=88&descColor=ffffff" alt="Footer" />
+<!-- MODERN FOOTER BANNER with updated gradient -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:06B6D4,30:8B5CF6,60:3B82F6,100:0F172A&height=160&section=footer&text=Let%E2%80%99s+Build+Something+Great+Together&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Open+to+collaborations+%E2%80%A2+Freelance+%E2%80%A2+Full-time+Opportunities&descSize=13&descAlignY=88&descColor=CAF0F8" alt="Footer" />
 
 </div>
