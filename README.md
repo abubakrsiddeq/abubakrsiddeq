@@ -1,39 +1,38 @@
 <div align="center">
 
-<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,40:302B63,100:24243E&height=340&section=header&text=Abubakar%20Siddique&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code.%20%E2%80%A2%20Build.%20%E2%80%A2%20Innovate.&descAlignY=58&descSize=22&stroke=4FC3F7&strokeWidth=2" alt="Header" />
+<!-- HERO BANNER – Blue gradient -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=320&section=header&text=Abubakar%20Siddique&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code.%20Build.%20Innovate.&descAlignY=58&descSize=22&stroke=0077B6&strokeWidth=2" alt="Header" />
 
 <br>
 
-<!-- ═══════════════════ SOCIAL LINKS ═══════════════════ -->
+<!-- SOCIAL BADGES – Uniform blue shades -->
 <a href="https://linkedin.com/in/abubakar-siddique-985a58213">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B6" />
 </a>&nbsp;
 <a href="https://facebook.com/abubakrrsiddeq">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
 </a>&nbsp;
 <a href="https://instagram.com/blogsbyabubakr">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%2300B4D8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00B4D8" />
 </a>&nbsp;
 <a href="mailto:gondalabubaker21@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-%23023E8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=023E8A" />
 </a>
 
 <br><br>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
+<!-- TYPING SVG – Blue accent -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=24&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════ ABOUT + STATS ROW ═══════════════════ -->
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%">
 
-## 🌐 The Builder's Manifesto
+## 🌟 The Builder's Manifesto
 
 I don't just write code — I engineer **digital experiences** that solve real problems.
 
@@ -50,9 +49,10 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=4FC3F7&icon_color=81D4FA&bg_color=0D1117&text_color=C9D1D9" alt="GitHub Stats" />
+<!-- STATS CARD – Blue themed -->
+<img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=0077B6&icon_color=023E8A&border_color=0077B6&bg_color=FFFFFF&text_color=1E293B" alt="GitHub Stats" />
 
 </td>
 </tr>
@@ -60,19 +60,19 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ What I Build With
 
 <div align="center">
 
 ### 🔤 Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=4FC3F7)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1A2E?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0A2342?style=flat-square&logo=typescript&logoColor=4FC3F7)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D47A1?style=flat-square&logo=dart&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-1A237E?style=flat-square&logo=php&logoColor=81D4FA)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-1565C0?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-%23FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </div>
 
@@ -84,45 +84,45 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 <td align="center" width="25%">
 
 ### 🖼️ Frontend & Mobile
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-01427A?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1A1A2E?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A1628?style=flat-square&logo=css3&logoColor=4FC3F7)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D2137?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-%2320232A?style=flat-square&logo=react&logoColor=61DAFB)<br>
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)<br>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)<br>
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 
 <td align="center" width="25%">
 
-### ⚙️ Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-0A2342?style=flat-square&logo=node.js&logoColor=68D391)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0D2137?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Google Cloud](https://img.shields.io/badge/GCP-0A1F44?style=flat-square&logo=google-cloud&logoColor=4FC3F7)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0A2342?style=flat-square&logo=netlify&logoColor=00C7B7)
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)<br>
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=flat-square&logo=express&logoColor=white)<br>
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)<br>
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4?style=flat-square&logo=google-cloud&logoColor=white)<br>
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)<br>
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-0A2342?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=flat-square&logo=mysql&logoColor=4FC3F7)
-![Supabase](https://img.shields.io/badge/Supabase-0A2342?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![MSSQL](https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=flat-square&logo=mongodb&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)<br>
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=flat-square&logo=supabase&logoColor=white)<br>
+![MSSQL](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🎨 Design & CMS
-![WordPress](https://img.shields.io/badge/WordPress-0A1628?style=flat-square&logo=wordpress&logoColor=81D4FA)
-![Shopify](https://img.shields.io/badge/Shopify-0A2342?style=flat-square&logo=shopify&logoColor=96BF48)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![Canva](https://img.shields.io/badge/Canva-0A1F44?style=flat-square&logo=canva&logoColor=00C4CC)
-![Photoshop](https://img.shields.io/badge/Photoshop-0A1628?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=flat-square&logo=wordpress&logoColor=white)<br>
+![Shopify](https://img.shields.io/badge/Shopify-%2396BF48?style=flat-square&logo=shopify&logoColor=white)<br>
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)<br>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white)<br>
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
 </td>
 
@@ -131,71 +131,87 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=tokyonight&hide_border=true&ring=4FC3F7&fire=81D4FA&currStreakLabel=4FC3F7&sideLabels=81D4FA&background=0D1117" alt="Streak Stats" />
+<!-- STREAK STATS – Blue themed -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=default&hide_border=false&ring=0077B6&fire=0077B6&currStreakLabel=023E8A&sideLabels=023E8A&currStreakNum=1E293B&sideNums=1E293B&dates=888888&background=FFFFFF&border=0077B6" alt="Streak Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=4FC3F7&bg_color=0D1117&text_color=C9D1D9" alt="Top Languages" />
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=0077B6&border_color=0077B6&bg_color=FFFFFF&text_color=1E293B" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=4FC3F7" alt="Contributor Stats" />
+<!-- CONTRIBUTOR STATS -->
+<img src="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=default&combine_all_yearly_contributions=true&title_color=0077B6&bg_color=FFFFFF&border_color=0077B6" alt="Contributor Stats" />
 
-</div>
+<br><br>
 
----
+<!-- DEV QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev Quote" />
 
-## 🏆 Trophy Shelf
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abubakrsiddeq&theme=algolia&no-frame=true&margin-w=8&column=7)
-
-</div>
-
----
-
-## 🌊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&bg_color=0D1117&color=4FC3F7&line=1565C0&point=81D4FA&area=true&area_color=0A2342&hide_border=true&title_color=4FC3F7" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Watch the Snake Devour My Commits
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+### 🏆 Achievements
+
+<!-- TROPHIES – Blue tint -->
+<img src="https://github-profile-trophy.vercel.app/?username=abubakrsiddeq&theme=flat&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=0077B6" alt="Trophies" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Let's+Build+Something+Great&fontSize=26&fontColor=4FC3F7&animation=twinkling&fontAlignY=65" alt="Footer" />
+<!-- ACTIVITY GRAPH – Blue gradient -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&bg_color=FFFFFF&color=0077B6&line=023E8A&point=00B4D8&area=true&area_color=E6F3FF&hide_border=false&border_color=0077B6&title_color=1E293B" alt="Activity Graph" />
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION – Contribution grid (requires GitHub Action) -->
+<div align="center">
+
+### 🐍 Watch the contributions snake eat my grid!
+
+<!-- 
+  To enable this snake animation, set up a GitHub Action:
+  - Uses Platane/snk to generate the snake.svg from your contribution history.
+  - Save the output to the 'output' branch.
+  - More info: https://github.com/Platane/snk
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*Automatically generated – make sure you have the [snake workflow](https://github.com/Platane/snk) set up!*
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE – Blue gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=140&section=footer&text=Let's+Build+Something+Great&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Footer" />
 
 <br>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=abubakrsiddeq&icon=6&color=6)
+<!-- VISITOR COUNTER -->
+<img src="https://visitcount.itsvg.in/api?id=abubakrsiddeq&icon=6&color=9" alt="Profile Views" />
 
 <br>
 
-**⚡ Crafted from the future. Deployed in the present. ⚡**
+**⚡ Crafted with intent. Deployed with precision. ⚡**
 
 </div>
