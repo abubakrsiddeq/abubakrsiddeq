@@ -1,238 +1,155 @@
 <div align="center">
+  <!-- Futuristic Wave Header (light mode) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:0284C7&height=280&section=header&text=Abubakar%20Siddique&fontSize=70&fontColor=0f172a&animation=fadeIn&fontAlignY=30&desc=Code.%20Build.%20Innovate.&descAlignY=52&descSize=22" alt="header light wave" style="max-width: 100%;" />
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7C59F,60:EFEFD0,100:004E89&height=320&section=header&text=Abubakar%20Siddique&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code.%20Build.%20Innovate.&descAlignY=58&descSize=22&stroke=FF6B35&strokeWidth=2" alt="Header" />
-
-<br>
-
-<!-- SOCIAL BADGES — warm amber + coral palette -->
-<a href="https://linkedin.com/in/abubakar-siddique-985a58213">
-  <img src="https://img.shields.io/badge/LinkedIn-%23004E89?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004E89" />
-</a>&nbsp;
-<a href="https://facebook.com/abubakrrsiddeq">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
-</a>&nbsp;
-<a href="https://instagram.com/blogsbyabubakr">
-  <img src="https://img.shields.io/badge/Instagram-%23FF6B35?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF6B35" />
-</a>&nbsp;
-<a href="mailto:gondalabubaker21@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="55%">
-
-## 🌟 The Builder's Manifesto
-
-I don't just write code — I engineer **digital experiences** that solve real problems.
-
-My craft sits at the intersection of **clean architecture** and **bold design**, driven by a single belief:
-
-> *"The best products aren't built from specs — they're built from obsession."*
-
-Whether it's a sleek SaaS product, a performant mobile app, or a high-converting e-commerce store — I bring **vision, velocity, and craft** to every project.
-
-**Currently focused on:**
-- 🏗️ Building scalable full-stack products
-- 📱 Cross-platform mobile with Flutter
-- 🛒 High-performance Shopify storefronts
-- 🤖 Integrating AI into real-world apps
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=FF6B35&icon_color=004E89&border_color=FF6B35&bg_color=FFFDF9&text_color=2D2D2D" alt="GitHub Stats" />
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ What I Build With
-
-<div align="center">
-
-### 🔤 Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-%23FA7343?style=flat-square&logo=swift&logoColor=white)
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 🖼️ Frontend & Mobile
-![React](https://img.shields.io/badge/React-%2320232A?style=flat-square&logo=react&logoColor=61DAFB)<br>
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)<br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)<br>
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)<br>
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)<br>
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)<br>
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=flat-square&logo=express&logoColor=white)<br>
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)<br>
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4?style=flat-square&logo=google-cloud&logoColor=white)<br>
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)<br>
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=flat-square&logo=mongodb&logoColor=white)<br>
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)<br>
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=flat-square&logo=supabase&logoColor=white)<br>
-![MSSQL](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨 Design & CMS
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=flat-square&logo=wordpress&logoColor=white)<br>
-![Shopify](https://img.shields.io/badge/Shopify-%2396BF48?style=flat-square&logo=shopify&logoColor=white)<br>
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)<br>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white)<br>
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=default&hide_border=false&ring=FF6B35&fire=FF6B35&currStreakLabel=004E89&sideLabels=004E89&currStreakNum=2D2D2D&sideNums=2D2D2D&dates=888888&background=FFFDF9&border=FF6B35" alt="Streak Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B35&border_color=FF6B35&bg_color=FFFDF9&text_color=2D2D2D" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=default&combine_all_yearly_contributions=true&title_color=FF6B35&bg_color=FFFDF9&border_color=FF6B35" alt="Contributor Stats" />
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abubakrsiddeq&theme=flat&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=FF6B35)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&bg_color=fffdf9&color=FF6B35&line=004E89&point=FF6B35&area=true&area_color=F7C59F&hide_border=false&border_color=FF6B35&title_color=2D2D2D" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7C59F,100:004E89&height=140&section=footer&text=Let's+Build+Something+Great&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Footer" />
-
-<br>
-
-![Profile Views](https://visitcount.itsvg.in/api?id=abubakrsiddeq&icon=6&color=9)
-
-<br>
-
-**⚡ Crafted with intent. Deployed with precision. ⚡**
-
-</div>    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </p>
-  
-  <p><b>Backend & Cloud Architecture</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </p>
-
-  <p><b>Database & Storage</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  </p>
-
-  <p><b>Design & Content Management</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-  <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abubakrsiddeq&icon=4&color=0" alt="Profile Views" />
   <br>
-  <i>⚡ Crafted from the future, deployed in the present. ⚡</i>
+
+  <!-- Social links with modern hover effect (light bg) -->
+  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://linkedin.com/in/abubakar-siddique-985a58213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ffffff&color=0A66C2" /></a>
+    <a href="https://facebook.com/abubakrrsiddeq"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=ffffff&color=1877F2" /></a>
+    <a href="https://instagram.com/blogsbyabubakr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ffffff&color=E4405F" /></a>
+    <a href="mailto:gondalabubaker21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ffffff&color=EA4335" /></a>
+  </div>
+
+  <br>
+
+  <!-- Typing SVG with futuristic light blue -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8" alt="typing light" />
+</div>
+
+<!-- About Me – Glassmorphism card (light) -->
+<div align="center" style="background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(6px); border-radius: 32px; padding: 24px 32px; margin: 40px auto; max-width: 800px; box-shadow: 0 20px 40px -12px rgba(0, 100, 200, 0.2), 0 8px 24px -6px rgba(2, 132, 199, 0.1); border: 1px solid rgba(2, 132, 199, 0.2);">
+  <h3 style="color: #0f172a; font-weight: 600; letter-spacing: -0.02em; margin-bottom: 8px;">🚀 About Me</h3>
+  <p style="color: #1e293b; font-size: 1.2rem; line-height: 1.5;">I’m a developer who loves building <b style="color: #0284C7;">real-world digital products</b> and exploring new technologies.<br>My vision is to combine development with entrepreneurship to build <b style="color: #0284C7;">successful tech startups</b>.</p>
+  <i style="color: #475569;">💡 I believe in learning by building, experimenting with ideas, and creating solutions that make an impact.</i>
+</div>
+
+<!-- What I Work With – minimal cards -->
+<div align="center" style="margin: 48px 0;">
+  <h3 style="color: #0f172a; font-weight: 600;">🛠️ Core Focus</h3>
+  <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+    <div style="background: white; border-radius: 40px; padding: 16px 28px; box-shadow: 0 8px 20px -8px rgba(2, 132, 199, 0.2); border: 1px solid #e2e8f0; display: flex; align-items: center; gap: 8px;"><span style="font-size: 2rem;">🌐</span> <span style="font-weight: 500;">Full‑Stack</span></div>
+    <div style="background: white; border-radius: 40px; padding: 16px 28px; box-shadow: 0 8px 20px -8px rgba(2, 132, 199, 0.2); border: 1px solid #e2e8f0; display: flex; align-items: center; gap: 8px;"><span style="font-size: 2rem;">🧩</span> <span style="font-weight: 500;">WordPress</span></div>
+    <div style="background: white; border-radius: 40px; padding: 16px 28px; box-shadow: 0 8px 20px -8px rgba(2, 132, 199, 0.2); border: 1px solid #e2e8f0; display: flex; align-items: center; gap: 8px;"><span style="font-size: 2rem;">📱</span> <span style="font-weight: 500;">Flutter</span></div>
+    <div style="background: white; border-radius: 40px; padding: 16px 28px; box-shadow: 0 8px 20px -8px rgba(2, 132, 199, 0.2); border: 1px solid #e2e8f0; display: flex; align-items: center; gap: 8px;"><span style="font-size: 2rem;">🛍️</span> <span style="font-weight: 500;">Shopify</span></div>
+  </div>
+</div>
+
+---
+
+<!-- Tech Stack – futuristic light sections -->
+<div align="center">
+  <h2 style="color: #0f172a; font-weight: 700; font-size: 2.2rem; letter-spacing: -0.02em; margin: 40px 0 20px;">⚡ Tech Stack</h2>
+
+  <!-- Language & Logic -->
+  <div style="background: linear-gradient(145deg, #ffffff, #f8fafc); border-radius: 48px; padding: 28px 20px; margin: 20px auto; max-width: 1000px; box-shadow: 0 10px 30px -12px #b0d4f0;">
+    <p style="color: #0284C7; font-weight: 600; font-size: 1.4rem; margin-bottom: 16px;">Language & Logic</p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=ffffff&color=00599C" />
+　<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=ffffff&color=3776AB" />
+　<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=ffffff&color=F7DF1E" />
+　<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=ffffff&color=007ACC" />
+　<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=ffffff&color=0175C2" />
+　<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=ffffff&color=777BB4" />
+　<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=ffffff&color=FA7343" />
+    </div>
+  </div>
+
+  <!-- Frontend & Mobile Core -->
+  <div style="background: linear-gradient(145deg, #ffffff, #f8fafc); border-radius: 48px; padding: 28px 20px; margin: 20px auto; max-width: 1000px; box-shadow: 0 10px 30px -12px #b0d4f0;">
+    <p style="color: #0284C7; font-weight: 600; font-size: 1.4rem; margin-bottom: 16px;">Frontend & Mobile Core</p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=ffffff&color=20232A" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=ffffff&color=000000" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=ffffff&color=02569B" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=ffffff&color=E34F26" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=ffffff&color=1572B6" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=ffffff&color=38B2AC" />
+    </div>
+  </div>
+
+  <!-- Backend & Cloud Architecture -->
+  <div style="background: linear-gradient(145deg, #ffffff, #f8fafc); border-radius: 48px; padding: 28px 20px; margin: 20px auto; max-width: 1000px; box-shadow: 0 10px 30px -12px #b0d4f0;">
+    <p style="color: #0284C7; font-weight: 600; font-size: 1.4rem; margin-bottom: 16px;">Backend & Cloud</p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=ffffff&color=43853D" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white&labelColor=ffffff&color=404D59" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=ffffff&color=4285F4" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=ffffff&color=FFCA28" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=ffffff&color=000000" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=ffffff&color=00C7B7" />
+    </div>
+  </div>
+
+  <!-- Database & Storage -->
+  <div style="background: linear-gradient(145deg, #ffffff, #f8fafc); border-radius: 48px; padding: 28px 20px; margin: 20px auto; max-width: 1000px; box-shadow: 0 10px 30px -12px #b0d4f0;">
+    <p style="color: #0284C7; font-weight: 600; font-size: 1.4rem; margin-bottom: 16px;">Database & Storage</p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=ffffff&color=4EA94B" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=ffffff&color=4479A1" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=ffffff&color=3ECF8E" />
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=ffffff&color=CC2927" />
+    </div>
+  </div>
+
+  <!-- Design & CMS -->
+  <div style="background: linear-gradient(145deg, #ffffff, #f8fafc); border-radius: 48px; padding: 28px 20px; margin: 20px auto; max-width: 1000px; box-shadow: 0 10px 30px -12px #b0d4f0;">
+    <p style="color: #0284C7; font-weight: 600; font-size: 1.4rem; margin-bottom: 16px;">Design & Content</p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+      <img src="https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white&labelColor=ffffff&color=117AC9" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=ffffff&color=F24E1E" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white&labelColor=ffffff&color=00C4CC" />
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&labelColor=ffffff&color=31A8FF" />
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- GitHub Analytics – Light theme cards with soft shadows -->
+<div align="center">
+  <h2 style="color: #0f172a; font-weight: 700; font-size: 2.2rem; margin: 40px 0 20px;">📊 GitHub Pulse</h2>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=vue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=ffffff&title_color=0284C7&icon_color=0284C7&text_color=334155" />
+      <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=vue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=ffffff&title_color=0284C7&icon_color=0284C7&text_color=334155" alt="stats" />
+    </picture>
+
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=vue&hide_border=false&border_radius=16&background=ffffff&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=abubakrsiddeq&theme=vue&hide_border=false&border_radius=16&background=ffffff&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" alt="streak" />
+    </picture>
+  </div>
+
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=16&bg_color=ffffff&title_color=0284C7&text_color=334155" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=16&bg_color=ffffff&title_color=0284C7&text_color=334155" alt="top langs" />
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=vue&combine_all_yearly_contributions=true&border_radius=16&bg_color=ffffff&title_color=0284C7&text_color=334155" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=abubakrsiddeq&limit=5&theme=vue&combine_all_yearly_contributions=true&border_radius=16&bg_color=ffffff&title_color=0284C7&text_color=334155" alt="contributor" />
+  </picture>
+
+  <br><br>
+
+  <!-- Dev Quote – light theme -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote" width="600" />
+</div>
+
+---
+
+<!-- Footer with view counter & futuristic tagline -->
+<div align="center" style="margin: 50px 0 20px;">
+  <img src="https://visitcount.itsvg.in/api?id=abubakrsiddeq&icon=4&color=2" alt="visit count" style="border-radius: 20px;" />
+  <br><br>
+  <div style="background: linear-gradient(135deg, #e0f2fe, #ffffff); padding: 24px; border-radius: 60px; display: inline-block; box-shadow: 0 4px 20px #b0d4f0;">
+    <i style="color: #0f172a; font-size: 1.4rem;">⚡ Crafted from the future, deployed in the present. ⚡</i>
+  </div>
 </div>
