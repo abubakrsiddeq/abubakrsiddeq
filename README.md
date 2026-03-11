@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HERO BANNER – Modern soft gradient -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=250&section=header&text=Abubakar%20Siddique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=0077B6&strokeWidth=2" alt="Header" />
+<!-- MODERN HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0F1E,40:0077B6,80:00B4D8,100:48CAE4&height=280&section=header&text=Abubakar%20Siddique&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Digital%20Craftsman&descAlignY=65&descSize=16&stroke=00B4D8&strokeWidth=1.5" alt="Header" />
 
 <br>
 
-<!-- SOCIAL BADGES – Uniform blue shades -->
+<!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/abubakar-siddique-985a58213">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B6" />
 </a>&nbsp;
@@ -21,8 +21,8 @@
 
 <br><br>
 
-<!-- TYPING SVG – Modern & responsive -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
+<!-- MODERN TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Building+Scalable+Digital+Products+%E2%9A%A1;Flutter+%7C+React+%7C+Node.js+%7C+AI+Integration;Turning+Bold+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -51,7 +51,6 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 </td>
 <td width="45%" align="center">
 
-<!-- STATS CARD – Blue themed -->
 <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=0077B6&icon_color=023E8A&border_color=0077B6&bg_color=FFFFFF&text_color=1E293B" alt="GitHub Stats" />
 
 </td>
@@ -131,15 +130,10 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 ---
 
+<div align="center">
 
 ### 🐍 Watch the contributions snake eat my grid!
 
-<!-- 
-  To enable this snake animation, set up a GitHub Action:
-  - Uses Platane/snk to generate the snake.svg from your contribution history.
-  - Save the output to the 'output' branch.
-  - More info: https://github.com/Platane/snk
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abubakrsiddeq/abubakrsiddeq/output/github-contribution-grid-snake.svg" />
@@ -154,7 +148,12 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <div align="center">
 
-<!-- FOOTER WAVE – Modern gradient wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=140&section=footer&text=Let's%20Build%20Something%20Great&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75" alt="Footer" />
+<!-- PROFILE VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=abubakrsiddeq&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br><br>
+
+<!-- MODERN FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:CAF0F8,30:48CAE4,60:0077B6,100:0A0F1E&height=160&section=footer&text=Let%E2%80%99s+Build+Something+Great+Together&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Open+to+collaborations+%E2%80%A2+Freelance+%E2%80%A2+Full-time+Opportunities&descSize=13&descAlignY=88&descColor=CAF0F8" alt="Footer" />
 
 </div>
