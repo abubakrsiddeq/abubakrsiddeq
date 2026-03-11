@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER – Blue gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=320&section=header&text=Abubakar%20Siddique&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code.%20Build.%20Innovate.&descAlignY=58&descSize=22&stroke=0077B6&strokeWidth=2" alt="Header" />
+<!-- HERO BANNER – Modern soft gradient -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=250&section=header&text=Abubakar%20Siddique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=0077B6&strokeWidth=2" alt="Header" />
 
 <br>
 
@@ -21,8 +21,8 @@
 
 <br><br>
 
-<!-- TYPING SVG – Blue accent -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=24&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
+<!-- TYPING SVG – Modern & responsive -->
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 </div>
 
@@ -154,7 +154,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <div align="center">
 
-<!-- FOOTER WAVE – Blue gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=140&section=footer&text=Let's+Build+Something+Great&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Footer" />
+<!-- FOOTER WAVE – Modern gradient wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,30:0077B6,60:00B4D8,100:CAF0F8&height=140&section=footer&text=Let's%20Build%20Something%20Great&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75" alt="Footer" />
 
 </div>
