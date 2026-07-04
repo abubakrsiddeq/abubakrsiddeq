@@ -126,7 +126,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 ![Shopify](https://img.shields.io/badge/Shopify-%2396BF48?style=flat-square&logo=shopify&logoColor=white)<br>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)<br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white)<br>
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)<br>
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 </td>
