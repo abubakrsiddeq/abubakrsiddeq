@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## 🌟 The Builder's Manifesto
 
@@ -46,16 +46,13 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&theme=react-dark&bg_color=0F172A&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 
-<br>
+<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakrsiddeq&repo=Bo-Trygt-Hjemme&theme=dark&bg_color=0F172A&hide_border=true&title_color=00B4D8" width="100%" alt="Top Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abubakrsiddeq&repo=bkr-tech-solutions&theme=dark&bg_color=0F172A&hide_border=true&title_color=8B5CF6" width="100%" alt="Top Repo 2" style="margin-top: 5px;" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=abubakrsiddeq&theme=onedark&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
 
 </td>
 </tr>
@@ -100,7 +97,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)<br>
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=flat-square&logo=express&gradient=true&logoColor=white)<br>
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=flat-square&logo=express&logoColor=white)<br>
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)<br>
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4?style=flat-square&logo=google-cloud&logoColor=white)<br>
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)<br>
