@@ -110,13 +110,13 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 <td align="center" width="25%">
 
 ### 🗄️ Databases
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=flat-square&logo=mongodb&logoColor=white)<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)<br>
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=flat-square&logo=supabase&logoColor=white)<br>
-![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)<br>
 ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)<br>
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 
@@ -128,6 +128,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)<br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white)<br>
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)<br>
 
 </td>
 
