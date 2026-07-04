@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ## 🌟 The Builder's Manifesto
 
@@ -46,13 +46,31 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&theme=react-dark&bg_color=0F172A&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+## 🛠️ System Architecture & Workflow
 
-<br><br>
+<div align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abubakrsiddeq&theme=onedark&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
+### ⚡ Development Philosophy
+* **Architecture:** Clean Architecture, BLoC, MVC, Microservices
+* **Methodology:** Agile, CI/CD pipelines, Test-Driven Focus
+* **Performance:** Code-splitting, Lazy loading, Query Optimization
+* **Security:** JWT, OAuth2, Secure Hooks & Supabase Triggers
+
+### 📊 Engineering Metrics
+* ⚡ **Velocity:** High-frequency, feature-driven execution
+* 🛡️ **Reliability:** Type-safe development with TypeScript & Dart
+* 🤖 **Innovation:** Next-gen AI integration & Smart Workflows
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_For_Innovation-Yes-06B6D4?style=for-the-badge" width="100%" /><br>
+  <img src="https://img.shields.io/badge/Code_Quality-Obsessive-8B5CF6?style=for-the-badge" width="100%" style="margin-top: 5px;" />
+</div>
 
 </td>
 </tr>
