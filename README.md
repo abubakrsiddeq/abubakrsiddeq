@@ -53,11 +53,6 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <br>
 
-### 📊 Core Developer Engine (Elite Performance)
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react&bg_color=0F172A&hide_border=true&title_color=00B4D8&icon_color=8B5CF6&text_color=ffffff&custom_title=Production%20Metrics%20%26%20Velocity" alt="High Impact Stats" width="100%" />
-
-<br>
-
 ### ⚡ GitHub Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddeq&theme=react&background=0F172A&hide_border=true&ring=8B5CF6&fire=00B4D8&title=00B4D8" alt="GitHub Streak" width="100%" />
 
