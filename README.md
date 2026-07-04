@@ -25,9 +25,17 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&theme=react-dark&bg_color=0F172A&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<br>
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## 🌟 The Builder's Manifesto
 
@@ -46,9 +54,25 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&theme=react-dark&bg_color=0F172A&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+## 📊 Developer Metrics
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&show_icons=true&theme=react&bg_color=0F172A&hide_border=true&title_color=00B4D8&icon_color=8B5CF6&text_color=ffffff" alt="GitHub Stats" width="100%" />
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&layout=compact&theme=react&bg_color=0F172A&hide_border=true&title_color=00B4D8&text_color=ffffff" alt="Top Languages" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="padding-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddeq&theme=react&background=0F172A&hide_border=true&ring=8B5CF6&fire=00B4D8&title=00B4D8" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
