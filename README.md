@@ -46,14 +46,14 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-## 📊 GitHub Metrics & Activity
-
+### 📈 Contribution History
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&theme=react-dark&bg_color=0F172A&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 
-<br><br>
+<br>
 
+### ⚡ GitHub Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddeq&theme=react&background=0F172A&hide_border=true&ring=8B5CF6&fire=00B4D8&title=00B4D8" alt="GitHub Streak" width="100%" />
 
 </td>
