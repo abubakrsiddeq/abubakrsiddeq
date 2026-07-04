@@ -48,7 +48,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats-two.vercel.app/api?username=abubakrsiddeq&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakrsiddeq&theme=react-dark&bg_color=0F172A&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 
 </td>
 </tr>
