@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,40:3B82F6,80:8B5CF6,100:06B6D4&height=280&section=header&text=Abubakar%20Siddique&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Digital%20Craftsman&descAlignY=65&descSize=16&stroke=8B5CF6&strokeWidth=1.5" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,40:3B82F6,80:8B5CF6,100:06B6D4&height=280&section=header&text=Abubakar%20Siddique&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20&%20Mobile-App%20Engineer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Digital%20Founder%20&%20CEO&descAlignY=65&descSize=16&stroke=8B5CF6&strokeWidth=1.5" alt="Header" />
 
 <br>
 
