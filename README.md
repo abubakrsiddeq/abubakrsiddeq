@@ -54,16 +54,7 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <br><br>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&show_icons=true&theme=react&bg_color=0F172A&hide_border=true&title_color=00B4D8&icon_color=8B5CF6&text_color=ffffff" alt="GitHub Stats" width="100%" />
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddeq&layout=compact&theme=react&bg_color=0F172A&hide_border=true&title_color=00B4D8&text_color=ffffff" alt="Top Languages" width="100%" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddeq&theme=react&background=0F172A&hide_border=true&ring=8B5CF6&fire=00B4D8&title=00B4D8" alt="GitHub Streak" width="100%" />
 
 </td>
 </tr>
