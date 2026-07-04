@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- MODERN HERO BANNER with updated gradient -->
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,40:3B82F6,80:8B5CF6,100:06B6D4&height=280&section=header&text=Abubakar%20Siddique&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Digital%20Craftsman&descAlignY=65&descSize=16&stroke=8B5CF6&strokeWidth=1.5" alt="Header" />
 
 <br>
 
-<!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/abubakar-siddique-985a58213">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B6" />
 </a>&nbsp;
@@ -21,7 +19,6 @@
 
 <br><br>
 
-<!-- MODERN TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Entrepreneur+%F0%9F%9A%80;Building+Scalable+Digital+Products+%E2%9A%A1;Flutter+%7C+React+%7C+Node.js+%7C+AI+Integration;Turning+Bold+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
@@ -30,7 +27,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ## 🌟 The Builder's Manifesto
 
@@ -49,9 +46,9 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=0077B6&icon_color=023E8A&border_color=0077B6&bg_color=FFFFFF&text_color=1E293B" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
 
 </td>
 </tr>
@@ -133,8 +130,6 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 <div align="center">
 
 ### 🐍 Watch the contributions snake eat my grid!
-<!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -145,12 +140,10 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 
 <div align="center">
 
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=abubakrsiddeq&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-10K%2B-%230077B6?style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
-<!-- MODERN FOOTER BANNER with updated gradient -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:06B6D4,30:8B5CF6,60:3B82F6,100:0F172A&height=160&section=footer&text=Let%E2%80%99s+Build+Something+Great+Together&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Open+to+collaborations+%E2%80%A2+Freelance+%E2%80%A2+Full-time+Opportunities&descSize=13&descAlignY=88&descColor=CAF0F8" alt="Footer" />
 
 </div>
