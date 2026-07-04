@@ -46,9 +46,9 @@ Whether it's a sleek SaaS product, a performant mobile app, or a high-converting
 - 🤖 Integrating AI into real-world apps
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddeq&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-two.vercel.app/api?username=abubakrsiddeq&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
 
 </td>
 </tr>
