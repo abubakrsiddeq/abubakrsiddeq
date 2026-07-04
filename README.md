@@ -30,13 +30,13 @@
 
 ## 🌟 The Builder's Manifesto
 
-I don't just write code — I engineer **digital experiences** that solve real problems.
+I don't just write code, I engineer **digital experiences** that solve real problems.
 
 My craft sits at the intersection of **clean architecture** and **bold design**, driven by a single belief:
 
-> *"The best products aren't built from specs — they're built from obsession."*
+> *"The best products aren't built from specs, they're built from obsession."*
 
-Whether it's a sleek SaaS product, a performant mobile app, or a high-converting e-commerce store — I bring **vision, velocity, and craft** to every project.
+Whether it's a sleek SaaS product, a performant mobile app, or a high-converting e-commerce store, I bring **vision, velocity, and craft** to every project.
 
 **Currently focused on:**
 - 🏗️ Building scalable full-stack products
